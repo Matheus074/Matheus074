@@ -56,6 +56,7 @@ matheus = {
 |---|---|---|:---:|
 | **📊 NPS Preditivo** | Prevê clientes com risco de virar detratores e mapeia os pontos de ruptura da operação: atraso, suporte e reclamações | Spark SQL · Pandas · scikit-learn | [⟨code⟩](https://github.com/Matheus074/NPS-Preditivo-em-E-commerce) |
 | **📚 Pipeline de Alfabetização** | Projeto em grupo (FIAP): pipeline batch + streaming em arquitetura Medallion. **Minha parte: camada Gold**, com tabelas analíticas de metas, evolução 2023→2024 e resumo por UF, otimizadas para custo | Python · BigQuery · GCS | [⟨code⟩](https://github.com/Matheus074/pipeline-dados-alfabetizacao) |
+| **📈 Portfólio Power BI** | Painéis de logística e vendas com layout próprio: 73% das entregas atrasadas e 2 bairros com cerca de 64% do faturamento | Power BI · DAX · Power Query | [⟨code⟩](https://github.com/Matheus074/portfolio-power-bi) |
 
 ## 📈 Métricas
 
